@@ -22,7 +22,7 @@ Qualification: UPSR
 
 Secondary School: Sekolah Menengah Kebangsaan Sultan Ibrahim Kulai
 
-Qualification: SPM
+Qualification: PT3, SPM
 
 Secondary School: Sekolah Menengah Kebangsaan Sultan Ibrahim Kulai
 
